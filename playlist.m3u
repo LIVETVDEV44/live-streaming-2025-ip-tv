@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/66d2FDMW/image.jpg"group-title="Live Sports" group-title="",Live Toffee Afghanistan vs Bangladesh
-https://tvs2.aynaott.com/tsportshd/index.m3u8?hdnts=st=1734641717~exp=1734684917~acl=/buddyxiptv/*~data=94.129.156.21-WEB~hmac=0479eb455b7818970a2d3028187a29b30cf5055048386dd799463d957a96cf0b
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjc764PL/mobile-logo-975410001725875598.png"group-title="Live Sports" group-title="",TOFFEE Sports VIP
 https://bdix-toffee.iptvbd.xyz/live.php?id=9cc74d11cfd0&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7YZvCPxt/landscape-original-poster-492212001725875752.png"group-title="Live Sports" group-title="",Toffee Drama
