@@ -1,9 +1,9 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xt77tPJ/images.png" group-title="",T Sports https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-Bangladesh 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png" group-title="",T Sports https://tiger-hub.vercel.app/Live_tv/T-sports.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vw5jDDf/Peace-TV-official-logo.png" group-title="", Peace TV
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
